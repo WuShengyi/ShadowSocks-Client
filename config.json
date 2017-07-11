@@ -1,0 +1,9 @@
+{
+    "server":"net.hinterstellar.com",
+    "server_port":443,
+    "local_address": "0.0.0.0",
+    "local_port":10024,
+    "password":"mrcd@123",
+    "timeout":600,
+    "method":"chacha20"
+}
